@@ -4,3 +4,6 @@ CNNs are a form of Neural Networks which are popular for the case of image and v
 
 
 # Projects
+These are the projects included in this repo utilizing CNNs.
+
+## Project-1 (Cat vs Dog Detection)
