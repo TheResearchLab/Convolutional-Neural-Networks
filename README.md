@@ -7,3 +7,4 @@ CNNs are a form of Neural Networks which are popular for the case of image and v
 These are the projects included in this repo utilizing CNNs.
 
 ## Project-1 (Cat vs Dog Detection)
+This implementation is sourced from a microsoft based Kaggle competition (https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset).
